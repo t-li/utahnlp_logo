@@ -12,3 +12,9 @@ Large arch
 
 Large arch + parse tree
 ![large_arch_parse](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-2-1.png)
+
+Huge arch white bkg
+![huge_arch](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-3.png)
+
+Huge arch crimson bkg
+![huge_arch](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-3-1.png)
