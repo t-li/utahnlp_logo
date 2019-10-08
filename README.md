@@ -1,4 +1,4 @@
-# utahnlp_logo
+# Logo Candidates
 
 Large U
 ![large_U](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-1.png)
