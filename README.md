@@ -22,3 +22,7 @@ Huge arch white bkg\
 ---
 Huge arch crimson bkg\
 ![huge_arch](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-3-1.png)
+
+---
+Arch on top\
+![arch_on_top](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-4.png)
