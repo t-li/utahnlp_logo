@@ -30,3 +30,7 @@ Arch on top\
 ---
 Simple parse tree\
 ![simple_parse](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-5.png)
+
+---
+U centered parse tree\
+![u_centered_parse](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-6.png)
