@@ -26,3 +26,7 @@ Huge arch crimson bkg\
 ---
 Arch on top\
 ![arch_on_top](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-4.png)
+
+---
+Simple parse tree\
+![simple_parse](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-5.png)
