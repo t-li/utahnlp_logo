@@ -16,14 +16,6 @@ Large arch + parse tree
 ![large_arch_parse](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-2-1.png)
 
 ---
-Huge arch white bkg\
-![huge_arch](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-3.png)
-
----
-Huge arch crimson bkg\
-![huge_arch](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-3-1.png)
-
----
 Arch on top\
 ![arch_on_top](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-4.png)
 
@@ -34,3 +26,7 @@ Simple parse tree\
 ---
 U centered parse tree\
 ![u_centered_parse](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-6.png)
+
+---
+white U on the mountain\
+![white_u_on_mountain](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-7.png)
