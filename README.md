@@ -1,5 +1,9 @@
 # Logo Candidates
 
+UNLP mountains stacked
+![unlp_and_mountains](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-9.png)
+
+---
 UNLP and mountains
 ![unlp_and_mountains](https://github.com/t-li/utahnlp_logo/blob/master/utahnlp-8.png)
 
